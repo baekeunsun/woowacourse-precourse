@@ -35,5 +35,5 @@
 
 | Mission                        | Repository                                                                                    | PR                     | 
 | --------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-|페어매칭관리 애플리케이션 (pairmatching)|[java-pairmatching](https://github.com/baekeunsun/java-pairmatching)|[PR](https://github.com/baekeunsun/java-pairmatching-precourse/pull/1)|
-|자판기 (vendingmachine)|[java-vendingmachine](https://github.com/baekeunsun/java-vendingmachine)|[PR](https://github.com/baekeunsun/java-vendingmachine-precourse/pull/1)|
+|페어매칭관리 애플리케이션 (pairmatching)|[java-pairmatching](https://github.com/baekeunsun/java-pairmatching-precourse)|[PR](https://github.com/baekeunsun/java-pairmatching-precourse/pull/1)|
+|자판기 (vendingmachine)|[java-vendingmachine](https://github.com/baekeunsun/java-vendingmachine-precourse)|[PR](https://github.com/baekeunsun/java-vendingmachine-precourse/pull/1)|
